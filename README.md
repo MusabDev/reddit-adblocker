@@ -10,7 +10,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Video Demo](#video-demo)
+- [Demo](#demo)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -37,11 +37,11 @@
 
 Once installed, Reddit AdBlocker runs seamlessly in the background. Access the extension settings by clicking on the extension icon in the toolbar. Customize your ad-blocking preferences, toggle dark or light mode, and enjoy a personalized Reddit experience.
 
-## Video Demo
+## Demo
 
-Watch the demo video to see Reddit AdBlocker in action:
+Watch the demo to see Reddit AdBlocker in action:
 
-[![Demo](./images/demo-thumbnail.png)](https://youtu.be/example)
+![GIF Demo](./images/demo.gif)
 
 ## Contribution
 
