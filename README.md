@@ -2,7 +2,7 @@
   <img src="./images/icon-128.png" alt="Reddit AdBlocker Logo">
   <h1>Reddit AdBlocker</h1>
   <p>Reddit AdBlocker is a lightweight Chrome extension designed to enhance your Reddit experience by blocking ads. With customizable settings, support for various Reddit versions, and a sleek UI, enjoy a clutter-free browsing experience tailored to your preferences.</p>
-  <img src="./images/demo.png" alt="Reddit AdBlocker Demo" width="300">
+  <img src="./images/demo.png" alt="Reddit AdBlocker Demo" width="643">
 </div>
 
 ## Table of Contents
