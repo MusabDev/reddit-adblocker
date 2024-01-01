@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Made with ❤️ by [Musab](https://musabdev.com) and the developers.**
 
-![GitHub Stars](https://img.shields.io/github/stars/musabdev/reddit-adblocker.svg?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/musabdev/reddit-adblocker.svg)
